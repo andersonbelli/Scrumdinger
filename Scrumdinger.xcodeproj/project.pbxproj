@@ -16,6 +16,7 @@
 		154B45972BD7042300445173 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 154B45962BD7042300445173 /* DailyScrum.swift */; };
 		154B45992BD708DD00445173 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 154B45982BD708DD00445173 /* CardView.swift */; };
 		154B459B2BD70D3D00445173 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 154B459A2BD70D3D00445173 /* TrailingIconLabelStyle.swift */; };
+		15B88DF92BD96B00005AB1E8 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B88DF82BD96B00005AB1E8 /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		154B45962BD7042300445173 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		154B45982BD708DD00445173 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		154B459A2BD70D3D00445173 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
+		15B88DF82BD96B00005AB1E8 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				154B458B2BD6FA1900445173 /* Preview Content */,
 				154B45982BD708DD00445173 /* CardView.swift */,
 				154B459A2BD70D3D00445173 /* TrailingIconLabelStyle.swift */,
+				15B88DF82BD96B00005AB1E8 /* ScrumsView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				154B45972BD7042300445173 /* DailyScrum.swift in Sources */,
 				154B45862BD6FA1800445173 /* MeetingView.swift in Sources */,
 				154B45952BD7030100445173 /* Theme.swift in Sources */,
+				15B88DF92BD96B00005AB1E8 /* ScrumsView.swift in Sources */,
 				154B45882BD6FA1800445173 /* Item.swift in Sources */,
 				154B45992BD708DD00445173 /* CardView.swift in Sources */,
 				154B45842BD6FA1800445173 /* ScrumdingerApp.swift in Sources */,
