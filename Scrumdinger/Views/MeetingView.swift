@@ -9,9 +9,6 @@ import SwiftUI
 import SwiftData
 
 struct MeetingView: View {
-    @Environment(\.modelContext) private var modelContext
-    @Query private var items: [Item]
-    
     var body: some View {
         VStack {
             ProgressView(value: 5, total: 15)
@@ -48,5 +45,4 @@ struct MeetingView: View {
 
 #Preview {
     MeetingView()
-        .modelContainer(for: Item.self, inMemory: true)
 }
